@@ -3,7 +3,7 @@ import cv2
 from pathlib import Path
 
 # ---------------- SETTINGS ----------------
-VIDEO = Path.home() / "Desktop" / "video.mp4"   # Change if needed
+VIDEO = Path.home() / "Desktop" / "video.mp4"   # Change if needed OR follow guide if you don't know what your doing..
 FPS = 10
 WIDTH = 128
 HEIGHT = 64
