@@ -44,5 +44,11 @@ Materials:
 
 
 
-
+IMAGE BELOW is w/Breadboard
 <img width="797" height="720" alt="image" src="https://github.com/user-attachments/assets/c774faf7-914b-4715-9c4a-c2dcac0c99da" />
+
+
+
+IMAGE BELOW is without Breadboard
+<img width="812" height="711" alt="image" src="https://github.com/user-attachments/assets/6f3571bc-8aa4-44bc-bf78-f6ba17c2d0cd" />
+
