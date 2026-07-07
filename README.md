@@ -9,13 +9,37 @@ This project is open-source and free for all under the **MIT License**. Feel fre
 Motivation: Honestly just wanted to make something to make my brother proud of me lol.
 
 Materials:
-     OBJECT               DESCRIPTION                         QTY  PRICE
- ESP32 DEVKIT V1 -- ESP32 microcontroller development board -- 1 -- $10
-1.2" 128×64 OLED -- I²C OLED display module                 -- 1 -- $5
-    Jumper wires -- Male-to-female Dupont jumper wires      -- 4 -- $1
-     Breadboard* -- Half-size solderless breadboard         -- 1 -- $4
-                     --       GRAND TOTAL        --
-                               23$ USD
+
+
+
+-----OBJECT------------DESCRIPTION----------------------------QTY--PRICE 
+
+
+
+-ESP32 DEVKIT V1 -- ESP32 microcontroller development board -- 1 -- $10
+
+
+
+1.2" 128×64 OLED -- I²C OLED display module ------------------ 1 -- $5
+
+
+
+----Jumper wires -- Male-to-female Dupont jumper wires ------- 4 -- $1
+
+
+
+-----Breadboard* -- Half-size solderless breadboard ---------- 1 -- $4
+
+
+
+---GRAND TOTAL
+
+
+
+---23$ USD
+
+
+
 ** Note: Breadboard is optional, however if you are not planning to purchase a breadboard, purchase 4 female to female jumper wires instead to fit the ESP32 and OLED.
 
 
